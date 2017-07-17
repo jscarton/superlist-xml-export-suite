@@ -2,10 +2,10 @@
 use Roots\Sage\Extras; 
 /**
  * Plugin Name: Superlist XML Export Suite
- * Plugin URI: http://www.superlist.com
+ * Plugin URI: https://github.com/jscarton/superlist-xml-export-suite
  * Description: Allow export orders to XML and send them via ftp to SAP
  * Author: Juan Scarton
- * Author URI: http://thegeeks.rocks
+ * Author URI: https://github.com/jscarton
  * Version: 1.0
  *
  * Copyright: (c) 2017 Juan Scarton. (jscarton@gmail.com)
